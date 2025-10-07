@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 # Настройки Telegram бота
 TELEGRAM_BOT_TOKEN = "8039861900:AAF2T_ZLgxgGzBkiDQM08wSZ7uxVo8w7bnI"
-TELEGRAM_CHAT_ID = "8013195957"
+TELEGRAM_CHAT_ID = "7537584350"
 
 def send_telegram_alert(visitor_data):
     """Отправка уведомления в Telegram"""
